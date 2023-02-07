@@ -131,15 +131,15 @@
 
 Створимо два блоку: смарагду та алмазу та задамо змінним **flag3** та **flag4** значення 1, а також виведемо на екран текст «**Initialisation**»
 
-![](<.gitbook/assets/image (12).png>)
+![](.gitbook/assets/101.png)
 
 При знищенні алмазного блоку напишемо на екрані **Start,** при знищенні смарагдового — напишемо на екрані **Finish**
 
-****![](<.gitbook/assets/image (22).png>)****
+<figure><img src=".gitbook/assets/102.png" alt=""><figcaption></figcaption></figure>
 
 Подивимось на результат
 
-![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston17.gif)
+![](<.gitbook/assets/Screen Recording (07.02.2023 15-56-21).gif>)
 
 ## Лабіринт **** Мінотавра
 
