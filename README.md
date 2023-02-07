@@ -89,26 +89,26 @@
 
 Ви можете побачити в попередньому завданні, що виведення на екран тексту повторюється декілька разів. Для того, щоб дія повторювалася лише один раз, необхідно використовувати змінну, якій значення задаємо при команді «start». Встановимо код, який задає змінній flag **значення 0** та виведемо на екран повідомлення «**(+) Flag activated.**»
 
-![](<.gitbook/assets/image (2).png>)
+![](.gitbook/assets/97.png)
 
 Додамо умову спрацьовування (знаходження блоку смарагду в точці (-30;4;-99)) та за умови, що змінна flag має значення 0
 
-![](<.gitbook/assets/image (8).png>)
+<figure><img src=".gitbook/assets/95.png" alt=""><figcaption></figcaption></figure>
 
 Змінимо значення змінної **flag на 1**. В результі дія, що зазначена в цій умові (в нашому випадку це вивід на екран символів «**:-)**») відбудеться лише 1 раз.
 
-![](<.gitbook/assets/image (3).png>)
+<figure><img src=".gitbook/assets/96.png" alt=""><figcaption></figcaption></figure>
 
 Змінимо текст повідомлення на «**(-) Flag deactivated.**»
 
-![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston09.gif)
+<figure><img src=".gitbook/assets/1123456789.gif" alt=""><figcaption></figcaption></figure>
 
 Для створеної системи з притискної панелі, пилу редстоуну, липкого поршню та блоку смарагду запрограмуйте наступні дії (_**зверніть увагу**, що в вашому випадку координати можуть відрізнятися, і вам необхідно визначати координати місця, у яке переміщується блок смарагду самостійно_):
 
 | **Завдання**  | <ol><li>Запрограмуйте так, щоб при команді <strong>start</strong> на екран було виведено текст <strong>(+)Flag activated</strong>, а при натисканні панелі — один раз було виведено <strong>(-)Flag deactivated</strong></li><li>Запрограмуйте так, щоб при команді <strong>start</strong> на екран було виведено текст <strong>Action started!</strong>, а при натисканні панелі — один раз було виведено <strong>Action stoped!</strong></li></ol> |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Код**       | <p><img src="https://github.com/mikh-maksi/minecraft_cards2/raw/main/lesson04/img/piston11.png" alt=""><br><img src="https://github.com/mikh-maksi/minecraft_cards2/raw/main/lesson04/img/piston10.png" alt=""></p>                                                                                                                                                                                                                                  |
-| **Результат** | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston09.gif)                                                                                                                                                                                                                                                                                                                                                              |
+| **Код**       | <p><img src=".gitbook/assets/97.png" alt=""><br><img src=".gitbook/assets/98.png" alt=""></p>                                                                                                                                                                                                                                                                                                                                                        |
+| **Результат** | <img src=".gitbook/assets/1123456789.gif" alt="" data-size="original">                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Творче завдання:
 
@@ -116,17 +116,16 @@
 
 ## Фіксація розбиття блоків
 
-За команди чату **start2** задамо змінній **flag2** значення **1** та виведемо на екран повідомлення «**start**». А також перенесемо гравця в точку **(-40;4;-90)** та розмістимо блок алмазу в точці **(-45;4;-90)**
-
-****![](<.gitbook/assets/image (16).png>)****
+За команди чату **start2** задамо змінній **flag2** значення **1** та виведемо на екран повідомлення «**start**». А також перенесемо гравця в точку **(-40;-60;-90)** та розмістимо блок алмазу в точці **(-45;-60;-90)**\
+****![](.gitbook/assets/99.png)****
 
 Задамо код, який виводить повідомлення «**finish**», якщо блок алмазу знищити. Задамо код, який виводить повідомлення «**finish**», якщо блок алмазу знищити.
 
-![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston13.png)
+<figure><img src=".gitbook/assets/100 (2).png" alt=""><figcaption></figcaption></figure>
 
 Подивимось на на результат
 
-![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston14.gif)
+<figure><img src=".gitbook/assets/Screen Recording (07.02.2023 15-45-49).gif" alt=""><figcaption></figcaption></figure>
 
 ## Фіксація розбиття 2-х блоків
 
