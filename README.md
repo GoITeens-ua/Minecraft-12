@@ -47,39 +47,43 @@
 При виконанні коду - треба дочекатися, щоб Агент всі кроки “вибігав” - тоді він знову опиниться в потрібній точці.
 {% endhint %}
 
-#### Липкий поршень
+#### [Липкий поршень](https://makecode.com/\_gtCLmE2Lx9f3)
 
 Створіть систему з притискних панелей, пилу редстоуну, липкого поршню та блок смарагду.
 
-![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston01.png)
+|            |                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Код:       | <p><img src=".gitbook/assets/91.png" alt=""><br><img src=".gitbook/assets/92.png" alt=""></p>                             |
+| Результат: | <img src="https://github.com/mikh-maksi/minecraft_cards2/raw/main/lesson04/img/piston01.png" alt="" data-size="original"> |
 
 Перевірте роботу створеної системи.
 
 ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston02.gif)
 
-Визначте координати поруч із блоком смарагду **(-30;4;-99)**.&#x20;
+Визначте координати поруч із блоком смарагду **(0;-60;-12)**.&#x20;
+
+<figure><img src=".gitbook/assets/93.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Зверніть увагу!** У вас координати (-30;4;-99) будуть іншими, їх значення необхідно брати із вказівника координат в точці, куде липкий поршень пересуває блок смарагду **у вашому світі.**
+**Зверніть увагу!** У вас координати (**0;-60;-12**) будуть іншими, їх значення необхідно брати із вказівника координат в точці, куде липкий поршень пересуває блок смарагду **у вашому світі.**
 {% endhint %}
 
-****![](<.gitbook/assets/image (19).png>)****
+Сформуйте код, який контролює наявність блоку смарагду у визначених координатах (**0;-60;-12**).\
 
-Сформуйте код, який контролює наявність блоку смарагду у визначених координатах (-30;4;-99).
 
-![](<.gitbook/assets/image (17).png>)
+<figure><img src=".gitbook/assets/94.png" alt=""><figcaption></figcaption></figure>
 
 Перевірте роботу відповідного елементу.
 
-![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston05.gif)
+<figure><img src=".gitbook/assets/Screen Recording (07.02.2023 13-55-37).gif" alt=""><figcaption></figcaption></figure>
 
 ### Події
 
 |               |                                                                                                                                                                                                                                                                                          |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Завдання**  | <p></p><ol><li>Виведіть на екран символи «<strong>:-)</strong>» при натисканні натискної панелі (із висування).</li><li>Виведіть на екран символи «<strong>!</strong>» при натисканні натискної панелі.</li><li>Виведіть поточний ігровий час при натисканні натискної панелі.</li></ol> |
-| **Код**       | <p><img src="https://github.com/mikh-maksi/minecraft_cards2/raw/main/lesson04/img/piston03.png" alt=""><br><img src="https://github.com/mikh-maksi/minecraft_cards2/raw/main/lesson04/img/piston04.png" alt=""></p>                                                                      |
-| **Результат** | ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/piston05.gif)                                                                                                                                                                                                  |
+| **Код**       | <p><img src=".gitbook/assets/93.png" alt="" data-size="original"></p><p><img src=".gitbook/assets/94.png" alt="" data-size="original"></p>                                                                                                                                               |
+| **Результат** | <p></p><p><img src=".gitbook/assets/Screen Recording (07.02.2023 13-55-37).gif" alt="" data-size="original"></p>                                                                                                                                                                         |
 
 ### Одна дія
 
