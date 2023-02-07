@@ -145,13 +145,13 @@
 
 Поновимо лабіринт з попереднього заняття.
 
-|     **1**     | ![](<.gitbook/assets/image (5).png>)  |
-| :-----------: | ------------------------------------- |
-|     **2**     | ![](<.gitbook/assets/image (13).png>) |
-|     **3**     | ![](<.gitbook/assets/image (9).png>)  |
-|     **4**     | ![](<.gitbook/assets/image (7).png>)  |
-| **Результат** | ![](<.gitbook/assets/image (27).png>) |
-|               |                                       |
+|     **1**     | <p><br><img src=".gitbook/assets/103.png" alt=""><br><img src=".gitbook/assets/104.png" alt=""></p> |
+| :-----------: | --------------------------------------------------------------------------------------------------- |
+|     **2**     | ![](<.gitbook/assets/105 (1).png>)                                                                  |
+|     **3**     | ![](.gitbook/assets/106.png)                                                                        |
+|     **4**     | <p><br><img src=".gitbook/assets/77.png" alt=""></p>                                                |
+| **Результат** | ![](<.gitbook/assets/image (27).png>)                                                               |
+|               |                                                                                                     |
 
 {% hint style="info" %}
 Як ви пам'ятаєте, **Мінотавр** — міфічна страшна істота з тулубом людини і головою бика — був народжений Пасіфаєю, дружиною царя Міноса (одного з трьох синів Зевса і Європи) від бика, якого володар морів Посейдон відправив на острів Крит. Цар Мінос замкнув Мінотавра в лабіринті, складній споруді, яку побудував спеціально для цього Дедал.
@@ -161,11 +161,14 @@
 ![](<.gitbook/assets/image (1).png>)
 {% endhint %}
 
-Створимо в нашому лабіринті Мінотавра і спробуємо з ним битися!
+Створимо в нашому лабіринті Мінотавра і спробуємо з ним битися!\
 
-![](<.gitbook/assets/image (14).png>)
 
-![](<.gitbook/assets/image (10).png>)
+<figure><img src=".gitbook/assets/107.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/108.png" alt=""><figcaption></figcaption></figure>
+
+Результат:
 
 ![](https://github.com/mikh-maksi/minecraft\_cards2/raw/main/lesson04/img/labirint13.gif)
 
