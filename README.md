@@ -141,7 +141,25 @@
 
 ![](<.gitbook/assets/Screen Recording (07.02.2023 15-56-21).gif>)
 
-## Лабіринт **** Мінотавра
+### Механізм появи монстрів
+
+Знову будуємо той самий механізм і відмічаємо координати
+
+<figure><img src=".gitbook/assets/109.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Щоб швидше зрозуміти координати які вам потрібні - не ставайте на пластину і тоді беріть координати Агента
+{% endhint %}
+
+Далі пишемо такий код:
+
+<figure><img src=".gitbook/assets/110.png" alt=""><figcaption></figcaption></figure>
+
+Результат:
+
+<figure><img src=".gitbook/assets/Screen Recording (07.02.2023 17-22-13).gif" alt=""><figcaption></figcaption></figure>
+
+## [Лабіринт **** Мінотавра](https://makecode.com/\_bY9AvVReCDah)
 
 Поновимо лабіринт з попереднього заняття.
 
