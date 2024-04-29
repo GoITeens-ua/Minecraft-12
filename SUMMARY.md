@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Мінотавр](README.md)
+* [Механізми. Події](README.md)
 * [⭐️Домашнє завдання⭐️](domashnye-zavdannya.md)
